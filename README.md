@@ -1,4 +1,4 @@
-# Hundir la Flota — JavaFX
+# Hundir la Flota
 
 Proyecto de escritorio desarrollado en **JavaFX** que implementa el clásico juego de Hundir la Flota (Batalla Naval) con interfaz gráfica, persistencia de partidas y tabla de resultados históricos.
 
